@@ -1,10 +1,10 @@
 # Font Aliasing
 
-Create a file at '/etc/fonts/local.conf' to handle font aliasing using font-config
+Create a file at `/etc/fonts/local.conf` to handle font aliasing using font-config.
 
+Files in `/etc/conf.d` are symlinks to files in `/etc/conf.avail`. Each file handles aliases. Add your desired font as a symlink here or edit the existing files.
 
-Example:
-
+Example `/etc/fonts/local.conf`:
 ```
 <?xml version='1.0'?>
 <!DOCTYPE fontconfig SYSTEM 'fonts.dtd'>
