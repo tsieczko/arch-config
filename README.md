@@ -1,2 +1,2 @@
 # arch-config
-Configurations and note for Arch Linux
+Configurations and notes for Arch Linux
