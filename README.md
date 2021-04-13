@@ -1,2 +1,4 @@
-# arch-config
-Configurations and notes for Arch Linux
+# dotfiles
+
+My dotfiles that should work on Arch Linux.
+
